@@ -13,9 +13,9 @@ A CasaOS custom Appstore containing over 100+ [LinuxServer.io](https://www.linux
 
 ---
 
-### Support me by treating me to a cup of coffee 🥰
+<!--- ### Support me by treating me to a cup of coffee 🥰
 
-[![Buy me a coffee](https://raw.githubusercontent.com/WisdomSky/CasaOS-Coolstore/main/buy-me-a-coffee.png)](https://www.buymeacoffee.com/wisdomsky)
+[![Buy me a coffee](https://raw.githubusercontent.com/WisdomSky/CasaOS-Coolstore/main/buy-me-a-coffee.png)](https://www.buymeacoffee.com/wisdomsky) --->
 
 ---
 
